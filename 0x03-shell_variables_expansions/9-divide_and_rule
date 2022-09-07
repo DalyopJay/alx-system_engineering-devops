@@ -1,2 +1,2 @@
 #!/bin/bash
-echo POWER devided by DEVIDE equals $((POWER/DEVIDE))
+echo $((POWER / DEVIDE))
