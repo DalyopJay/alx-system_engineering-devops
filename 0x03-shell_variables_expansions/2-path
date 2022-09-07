@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((jerry**dalyop))
+echo $((JERRY**DALYOP))
